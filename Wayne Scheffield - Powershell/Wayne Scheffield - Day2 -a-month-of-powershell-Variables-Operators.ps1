@@ -98,7 +98,8 @@ $d = ()
 -------------- Hash Tables --------------------
 A hash table is simply a Name-Value pair.
 
-
+$Z = @{"Colorado" = "Denver"; "Virginia" = "Richmond"; "North Carolina" = "Raleigh"}
+$Z.Add("Alaska", "Fairbanks")
 
 
 #>
